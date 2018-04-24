@@ -8,7 +8,7 @@ public class APBController {
 
     @RequestMapping("/")
     public String index() {
-        return "Testing Git";
+        return "Testing Git after changes";
     }
 
 }
